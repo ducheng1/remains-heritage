@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    该项目使用Vue3+ElementPlus构建。
   </div>
 </template>
