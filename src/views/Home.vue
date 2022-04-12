@@ -1,10 +1,10 @@
 <template>
-  <div class="home">
-	  <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
-	  <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-	  <IndexAnimate/>
-	  <HomeMenu/>
-  </div>
+    <div class="home">
+        <!-- <img alt="Vue logo" src="../assets/logo.png"> -->
+        <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
+        <IndexAnimate/>
+        <HomeMenu/>
+    </div>
 </template>
 
 <script>
@@ -14,11 +14,11 @@ import IndexAnimate from '@/components/IndexAnimate.vue'
 import HomeMenu from "../components/HomeMenu.vue"
 
 export default {
-	name: 'Home',
-	components: {
-		// HelloWorld,
-		IndexAnimate,
-		HomeMenu
-	}
+    name: 'Home',
+    components: {
+        // HelloWorld,
+        IndexAnimate,
+        HomeMenu
+    }
 }
 </script>

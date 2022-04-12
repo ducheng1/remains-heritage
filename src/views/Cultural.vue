@@ -1,11 +1,11 @@
 <template>
-	<div class="cultural">
-		IP
-	</div>
+    <div class="cultural">
+        IP
+    </div>
 </template>
 
 <script>
 export default {
-	name: "cultural",
+    name: "cultural",
 };
 </script>
